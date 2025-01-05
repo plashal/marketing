@@ -1,1 +1,1 @@
-# Marketing As I Know it
+# Marketing as I Know it
