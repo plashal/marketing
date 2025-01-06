@@ -1,0 +1,11 @@
+{
+  "workbench.colorCustomizations": {
+    "editor.renderLineHighlight": "all",
+    "titleBar.activeBackground": "#a51ec7",
+    "titleBar.activeForeground": "#F4FCF2"
+    "statusBar.foreground": "#fff",
+    "statusBar.background": "#FF005A",
+    "tab.activeBorder": "#FF005A",
+    "terminal.background": "#012456"
+  }
+}
